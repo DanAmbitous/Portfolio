@@ -40,6 +40,11 @@ p {
   background-color: lightblue;
 }
 
+.icon {
+  width: 15rem;
+  cursor: pointer;
+}
+
 @media screen and (max-height: 800px) {
   .app-container {
     background-color: rgb(44, 106, 131);
