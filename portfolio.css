@@ -23,8 +23,6 @@ p {
   background-color: skyblue;
   display: flex;
   flex-wrap: wrap;
-  align-content: space-around;
-  justify-content: space-around;
 }
 
 .taskbar {
@@ -43,6 +41,10 @@ p {
 .icon {
   width: 15rem;
   cursor: pointer;
+}
+
+img {
+  z-index: 100000000000;
 }
 
 @media screen and (max-height: 800px) {

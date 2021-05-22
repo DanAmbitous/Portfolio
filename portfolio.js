@@ -39,3 +39,17 @@ function drop(event) {
 
   draggable.classList.remove('hide');
 }
+
+document.addEventListener('dbclick', event => {
+  const element = event.target.id
+
+  switch (element) {
+    case "browser":
+      broswerFunction()
+      break;
+  }
+})
+
+function broswerFunction() {
+  console.log('Hello World!')
+}

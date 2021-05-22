@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my personal portfolio, to display my programming skills, and some of my projects, as well as a bit about me.",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanAmbitous/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanAmbitous/Portfolio/issues"
+  },
+  "homepage": "https://github.com/DanAmbitous/Portfolio#readme"
+}
